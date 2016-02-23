@@ -22,7 +22,7 @@ support/lib/test_packages.rb
 bin/.DS_Store
 
 command_helper.pyc
-
+eeeeeee
 *.lock
 
 mm/*
